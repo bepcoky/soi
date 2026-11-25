@@ -1,0 +1,19 @@
+{
+ "name": "Soi cùng Cô Kỹ – kiểm chứng trước khi xuống tiền",
+ "short_name": "Soi Cô Kỹ",
+ "description": "Chụp ảnh quảng cáo, nhãn sản phẩm hay bài 'món này chữa bệnh', ứng dụng soi giúp các dấu hiệu cần cẩn thận. Ảnh xử lý trên máy, không gửi đi đâu.",
+ "lang": "vi",
+ "id": "/",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#fffdf8",
+ "theme_color": "#c62a1e",
+ "categories": ["health", "lifestyle", "utilities"],
+ "icons": [
+  {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+  {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+  {"src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+ ]
+}
